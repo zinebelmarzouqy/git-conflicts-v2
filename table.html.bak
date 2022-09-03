@@ -5,7 +5,11 @@
   <body>
     <table>
       <tr>
-        iam trying to learn fetch
+<<<<<<< HEAD
+        iam trying to learn fetch modify from local
+=======
+        iam trying to learn fetch iam goining to modify you
+>>>>>>> ac8f0779210a9fb1a1da8b1daecbd915be46f701
         <th>mois</th>
         <th>Data</th>
       </tr>
