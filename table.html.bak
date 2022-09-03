@@ -5,8 +5,13 @@
   <body>
     <table>
       <tr>
+<<<<<<< HEAD
         <th>mois</th>
-        <th>Data</th>
+        <th>D master ata</th>
+=======
+        <th>mois from a</th>
+        <th>Data from a</th>
+>>>>>>> a
       </tr>
       <tr>
         <td>Janvier</td>
